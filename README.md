@@ -1,6 +1,6 @@
 # Twitter bot for image denoising
 
-Simple twitter bot that uses an AI denoising model (RIDNet) and replies with a denoised image as output. This bot uses both available api's (v1.1 and v.1.2). The model and related functiones were extracted from [this repo](https://github.com/sunilbelde/Imagedenoising-dncnn-ridnet-keras).
+Simple twitter bot that uses an AI denoising model (RIDNet) and replies with a denoised image as output. This bot uses both available api's (v1.1 and v.1.2). The model and related functions were extracted from [this repo](https://github.com/sunilbelde/Imagedenoising-dncnn-ridnet-keras).
 
 ## Usage
 1. Get your twitter account credentials from the developers platform and paste them into `credentials.py`.
